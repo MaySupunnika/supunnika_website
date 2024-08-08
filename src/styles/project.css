@@ -1,0 +1,11 @@
+#Project {
+  background-image: url(../assets/Project-bg.png);
+  background-position: bottom;
+}
+
+@media (max-width: 701px) {
+  #Project {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

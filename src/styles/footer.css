@@ -1,0 +1,11 @@
+#Footer {
+  background-image: url(src/assets/Contact-bg.png);
+  background-position: bottom;
+}
+
+@media (max-width: 701px) {
+  #Footer {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

@@ -1,0 +1,11 @@
+#Skills {
+  background-image: url(src/assets/Skills-bg.png);
+  background-position: bottom;
+}
+
+@media (max-width: 701px) {
+  #Skills {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

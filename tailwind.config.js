@@ -6,9 +6,15 @@ export default {
       fontFamily: {
         vt323: ["VT323"],
         silkscreen: ["Silkscreen"],
+        pixeled: ["pixeled"],
       },
       letterSpacing: {
         custom: "-0.15em",
+      },
+      scale: {
+        65: "0.65",
+        60: "0.6",
+        55: "0.55",
       },
     },
   },

@@ -1,0 +1,11 @@
+#AboutMe {
+  background-image: url(src/assets/AboutMe-bg.png);
+  background-position: bottom;
+}
+
+@media (max-width: 701px) {
+  #AboutMe {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}

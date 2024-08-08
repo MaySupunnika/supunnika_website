@@ -1,5 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=VT323&display=swap");
 
+@font-face {
+  font-family: "pixeled";
+  src: url("./fonts//Pixeled.ttf") format("woff2"),
+    url("./fonts//Pixeled.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
