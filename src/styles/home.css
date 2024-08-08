@@ -7,6 +7,6 @@
 } */
 
 #Home {
-  background-image: url(src/assets/home-bg.png);
+  background-image: url(../assets/home-bg.png);
   background-position: bottom;
 }
