@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: "pixeled";
-  src: url("./fonts//Pixeled.ttf") format("woff2"),
-    url("./fonts//Pixeled.ttf") format("woff");
+  src: url("/fonts//Pixeled.ttf") format("woff2"),
+    url("/fonts//Pixeled.ttf") format("woff");
   font-weight: normal;
   font-style: normal;
 }
