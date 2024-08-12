@@ -70,7 +70,7 @@ export default function slideCard() {
       id: 2,
       src: ThePizza,
       video:
-        "https://izknyexhzpqgdgorlpmh.supabase.co/storage/v1/object/sign/portfolio-storage/video/course-flow%20(1).mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwb3J0Zm9saW8tc3RvcmFnZS92aWRlby9jb3Vyc2UtZmxvdyAoMSkubXA0IiwiaWF0IjoxNzIyNzUwOTk3LCJleHAiOjE3NTQyODY5OTd9.TK67XBDT-UPRJGa-aTHO3z0VNTaBXK4MyApZPTxzk7M&t=2024-08-04T05%3A56%3A37.391Z",
+        "https://izknyexhzpqgdgorlpmh.supabase.co/storage/v1/object/sign/portfolio-storage/video/the-pizza-clone.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJwb3J0Zm9saW8tc3RvcmFnZS92aWRlby90aGUtcGl6emEtY2xvbmUubXA0IiwiaWF0IjoxNzIzNDUyMzkyLCJleHAiOjE3NTQ5ODgzOTJ9.nSCfe_nY6alh-Bv5yke6v16yH2ggWF_aUJ_pyak6FQk&t=2024-08-12T08%3A46%3A34.429Z",
       name: "The Pizza Clone",
       description:
         "The Pizza project draws inspiration from the website The Pizza 1112. Its purpose is to enhance web development skills. The website features two roles: users and admins. Users can browse products and place orders.",
@@ -82,7 +82,6 @@ export default function slideCard() {
         "Swiper",
         "Node JS",
         "Express",
-        "JWT",
         "Supabase",
       ],
     },
