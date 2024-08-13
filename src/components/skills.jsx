@@ -90,7 +90,7 @@ export default function Skills() {
               key={tool.id}
               className="w-[6rem] flex flex-col items-center hover:animate-bounce hover:scale-110 duration-200 max-[701px]:scale-75 max-[1120px]:scale-75 max-[1500px]:scale-75"
             >
-              <img src={tool.icon} alt="icon" />
+              <img src={tool.icon} alt="icon" className="w-[100%]" />
               <p className="text-xl font-vt323 text-white ">{tool.name}</p>
             </div>
           ))}
