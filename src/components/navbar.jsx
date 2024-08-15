@@ -32,7 +32,7 @@ export default function Navbar() {
   return (
     <>
       <nav
-        className={`w-screen overflow-x-hidden h-[6rem] fixed top-0 left-0 right-0 transition ease-linear z-50   ${
+        className={`w-screen overflow-x-hidden h-[6rem] fixed top-0 left-0 right-0 transition ease-linear z-[999]   ${
           scrolled ? "bg-[#1a033f]" : "bg-transparent"
         } max-[1120px]:hidden max-[700px]:hidden`}
       >
