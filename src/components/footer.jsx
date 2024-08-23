@@ -88,7 +88,7 @@ export default function Footer() {
             href="tel:+66928479885"
             className="text-white font-vt323 text-3xl ml-[2rem]"
           >
-            092-847-9558
+            092-847-9885
           </a>
         </div>
         <div className=" mb-[2rem] flex max-[701px]:scale-75 max-[701px]:mb-[1rem] max-[1120px]:scale-65 max-[1500px]:scale-75">
